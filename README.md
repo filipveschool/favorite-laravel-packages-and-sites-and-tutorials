@@ -14,11 +14,28 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/shvetsgroup/laravel-email-database-log
 - https://github.com/itsgoingd/clockwork
 - https://github.com/barryvdh/laravel-debugbar
+- https://github.com/themsaid/laravel-mail-preview
+- https://github.com/jenssegers/laravel-rollbar
 - 
+
+### qrcode
+
+- https://github.com/SimpleSoftwareIO/simple-qrcode
+- 
+
+### feeds
+
+- https://github.com/RoumenDamianoff/laravel-feed
+- 
+
+### remote
+
+- https://github.com/LaravelCollective/remote
 
 ### admin
 
 - https://github.com/lembarek/admin
+- https://github.com/digitlimit/adminpanel
 
 ### crud
 
@@ -48,6 +65,11 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 ### .env packages
 
 - https://github.com/kduma/L5-dotenv-filler
+- https://github.com/mathiasgrimm/laravel-dot-env-gen
+- 
+### cdn
+
+- http://packalyst.com/packages/package/vinelab/cdn
 
 ### generators 
 
@@ -66,19 +88,33 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 ### exceptions 
 
 - https://github.com/ichtus/exceptions
-- 
+- https://github.com/LithiumHosting/LaravelExceptionMailer
 
-## media
+### media
 
 - https://github.com/Folkloreatelier/eloquent-mediatheque
 - https://github.com/cipemotion/medialibrary
 - https://github.com/Intervention/image
+- https://github.com/spatie/laravel-medialibrary
+- http://packalyst.com/packages/package/intervention/imagecache
+
+### documentation
+
+- https://github.com/Latrell/Swagger
+- http://packalyst.com/packages/package/jlapp/swaggervel
+
 
 
 ### making packages
 
 - https://github.com/neelkanthk/larapackboiler
 - https://github.com/furkankadioglu/Modvel
+- https://github.com/Jeroen-G/laravel-packager
+- 
+
+### newsletters
+
+- https://github.com/spatie/laravel-newsletter
 
 ### date packages
 
@@ -98,6 +134,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 ### artisan
 
 - https://github.com/hmazter/laravel-schedule-list
+- https://github.com/Indatus/dispatcher
 
 ### testing
 
@@ -153,6 +190,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/rohitsubedi/laravel-localization
 - https://github.com/Lykegenes/laravel-locale-switcher
 - https://github.com/caouecs/Laravel-lang
+- https://github.com/terdelyi/laravel-localedate
 
 ### extensions
 
@@ -242,6 +280,7 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/owlgrin/cashew
 - https://github.com/saleemepoch/laravel-paypal
 - https://github.com/anouarabdsslm/laravel-paypalpayment
+- https://github.com/Payum/PayumLaravelPackage
 
 ### validator
 
@@ -317,11 +356,21 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/marcelgwerder/laravel-api-handler
 - https://github.com/teepluss/laravel-restable
 - https://github.com/dingo/api
+- https://github.com/nilportugues/laravel5-jsonapi
+- https://github.com/tymondesigns/jwt-auth
+- https://github.com/dingo/blueprint
 
 ### social
 
 - https://github.com/overtrue/socialite
+- https://github.com/SocialiteProviders/Manager
 - 
+
+### authentication
+
+- https://github.com/romanbican/roles
+- https://github.com/yajra/laravel-acl
+- https://github.com/oasis1992/sociauth-laravel
 
 ### routing
 
@@ -331,6 +380,7 @@ http://cheats.jesse-obrien.ca/
 
 - https://github.com/viraj-khatavkar/easy-slug
 - https://github.com/spatie/laravel-sluggable
+- https://github.com/cviebrock/eloquent-sluggable
 
 ### themes management
 
@@ -353,15 +403,20 @@ http://cheats.jesse-obrien.ca/
 
 - https://github.com/spatie/laravel-demo-mode
 - https://github.com/spatie/laravel-link-checker
+- https://github.com/spatie/laravel-tail
 
 ### mails
 
 - https://github.com/caffeine-addicts/MailAwesome
 - https://github.com/Snowfire/Beautymail
 - https://github.com/Marwelln/recaptcha
+- https://github.com/mares29/laravel-google-recaptcha
 - https://github.com/pulkitjalan/laravel-mail-css-inliner
 - https://github.com/larablocks/pigeon
 - https://github.com/molteber/puz-autoembed
+- https://github.com/CawaKharkov/laravel-sender
+- https://github.com/mewebstudio/captcha
+- https://github.com/greggilbert/recaptcha
 
 ### comments
 
