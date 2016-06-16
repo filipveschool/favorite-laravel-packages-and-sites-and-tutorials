@@ -125,6 +125,11 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * [Laravel Uuid](https://github.com/webpatser/laravel-uuid) - Laravel package to generate a UUID according to the RFC 4122 standard
 * [Laravel Installer](https://github.com/RachidLaasri/LaravelInstaller) - Laravel package to allow users to install your application just by following the setup wizard, like WordPress
 * [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - Generate Laravel test factories from your existing models
+* https://github.com/romanbican/roles
+* https://github.com/yajra/laravel-acl
+* https://github.com/oasis1992/sociauth-laravel
+* https://github.com/caffeinated/shinobi
+* https://github.com/edvinaskrucas/laravel-user-email-verification
 
 ##### Working with Javascript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
@@ -178,6 +183,22 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * [Laravel Date](https://github.com/jenssegers/date) - A library to help you work with dates in multiple languages, based on Carbon
 * [Laravel Langman](https://github.com/themsaid/laravel-langman) - Manage language files from Artisan Console
 * [Laravel Translation](https://github.com/waavi/translation) - Allow live edit/caching of translation entries, and localization of urls and Eloquent Model attributes.
+
+* https://github.com/aewebsolutions/laravel-translator
+* https://github.com/mohd-isa/locally
+* https://github.com/thinktomorrow/locale
+* https://github.com/vinkla/translator
+* https://github.com/vluzrmos/laravel-language-detector
+* https://github.com/ARCANEDEV/Localization
+* https://github.com/Folkloreatelier/eloquent-localizable
+* https://github.com/themsaid/laravel-multilingual
+* https://github.com/risenohk/localizable
+* https://github.com/Folkloreatelier/laravel-locale
+* https://github.com/ufirstgroup/laravel-lang-import-export
+* https://github.com/rohitsubedi/laravel-localization
+* https://github.com/Lykegenes/laravel-locale-switcher
+* https://github.com/terdelyi/laravel-localedate
+* https://github.com/aXent/laravel-analyze-locale
 
 ##### Third-party Service Integration
 * [Laravel Algolia](https://github.com/vinkla/algolia) - Algolia API bridge
@@ -336,10 +357,13 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 ## Starter Projects
 * [EasyAdmin](https://github.com/laravelish/EasyAdmin)
 * [Laracogs](https://github.com/yabhq/laracogs)
-* [Laravel 5.1 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
+* [Laravel 5.2 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
 * [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
 * [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel)
 * [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
+* https://github.com/lavender/lavender
+* https://github.com/silverbux/laravel-angular-admin
+* https://github.com/thunder87/Laravel-Admin-Starter
 
 ## Codebases for Reference
 * [92Five](https://github.com/chintanbanugaria/92five)
@@ -601,25 +625,7 @@ https://github.com/SmoDav/flash
 - https://github.com/DougSisk/laravel-country-state
 - https://github.com/bestboysmedialab/language-list
 
-### localization - languages
 
-- https://github.com/aewebsolutions/laravel-translator
-- https://github.com/mohd-isa/locally
-- https://github.com/thinktomorrow/locale
-- https://github.com/vinkla/translator
-- https://github.com/vluzrmos/laravel-language-detector
-- https://github.com/ARCANEDEV/Localization
-- https://github.com/Folkloreatelier/eloquent-localizable
-- https://github.com/themsaid/laravel-langman
-- https://github.com/themsaid/laravel-multilingual
-- https://github.com/risenohk/localizable
-- https://github.com/Folkloreatelier/laravel-locale
-- https://github.com/ufirstgroup/laravel-lang-import-export
-- https://github.com/rohitsubedi/laravel-localization
-- https://github.com/Lykegenes/laravel-locale-switcher
-- https://github.com/caouecs/Laravel-lang
-- https://github.com/terdelyi/laravel-localedate
-- https://github.com/aXent/laravel-analyze-locale
 
 ### extensions
 
@@ -789,14 +795,6 @@ https://github.com/stevebauman/inventory
 - https://github.com/overtrue/socialite
 - https://github.com/SocialiteProviders/Manager
 
-### authentication
-
-- https://github.com/romanbican/roles
-- https://github.com/yajra/laravel-acl
-- https://github.com/oasis1992/sociauth-laravel
-- https://github.com/caffeinated/shinobi
-- https://github.com/edvinaskrucas/laravel-user-email-verification
-
 ### routing
 
 https://github.com/dwightwatson/active
@@ -871,14 +869,7 @@ https://github.com/marlek/laravel-automigrate
 - https://github.com/aindong/pluggables
 - https://github.com/hootlex/laravel-friendships
 
-### boilerplates
 
-- https://github.com/rappasoft/laravel-5-boilerplate
-- https://github.com/lavender/lavender
-- https://github.com/jadjoubran/laravel5-angular-material-starter
-- https://github.com/unicodeveloper/laravel-hackathon-starter
-- https://github.com/silverbux/laravel-angular-admin
-- https://github.com/thunder87/Laravel-Admin-Starter
 
 ### templates 
 
