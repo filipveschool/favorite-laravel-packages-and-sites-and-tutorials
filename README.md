@@ -9,6 +9,10 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/evercode1/view-maker
 - https://github.com/svenluijten/artisan-view
 
+### traits
+
+- https://github.com/evercode1/trait-maker
+
 ### debugging
 
 - https://github.com/shvetsgroup/laravel-email-database-log
@@ -41,7 +45,31 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 - https://github.com/alcodo/crud
 - https://github.com/jan-dolata/crude-crud
+- https://github.com/isanmasiv/mrliputocrudlaravel
+- https://github.com/goszowski/crud-generator-admin-lte
 - 
+### blade
+
+- https://github.com/sleeping-owl/blade-extended
+- http://packalyst.com/packages/package/goszowski/blade-extended
+- https://github.com/graciano/blade-helpers
+- https://github.com/Flynsarmy/laravel-db-blade-compiler
+- http://packalyst.com/packages/package/drahosistvan/blade-smartforeach
+- 
+
+### grids
+
+- https://github.com/marcosrjjunior/lvlgrid
+
+### nog onderzoeken
+
+- https://github.com/Displore/Machete
+- https://github.com/libern/someline-starter
+- https://github.com/ra3oul/laravel-eloquent-abstract-repository
+
+### assets
+
+- https://github.com/efficiently/larasset
 
 ### packages barryvdh
 
@@ -66,6 +94,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 - https://github.com/kduma/L5-dotenv-filler
 - https://github.com/mathiasgrimm/laravel-dot-env-gen
+- https://github.com/svenluijten/flex-env
 - 
 ### cdn
 
@@ -110,7 +139,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/neelkanthk/larapackboiler
 - https://github.com/furkankadioglu/Modvel
 - https://github.com/Jeroen-G/laravel-packager
-- 
+- https://github.com/ptondereau/laravel-packme
 
 ### newsletters
 
@@ -135,6 +164,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 - https://github.com/hmazter/laravel-schedule-list
 - https://github.com/Indatus/dispatcher
+- https://github.com/LeShadow/ArtisanExtended
 
 ### testing
 
@@ -143,15 +173,21 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 ### file upload
 
 - https://github.com/CodeSleeve/laravel-stapler
+- http://packalyst.com/packages/package/anavel/uploads
 
 ### mobile devices packages
 
 - https://github.com/hisorange/browser-detect
 - https://github.com/jenssegers/agent
+- https://github.com/riverskies/laravel-mobile-detect
 
 ### plugins
 
 - https://github.com/rtconner/laravel-likeable
+
+### flash messages
+
+- https://github.com/SmoDav/flash
 
 ### forms
 
@@ -191,6 +227,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/Lykegenes/laravel-locale-switcher
 - https://github.com/caouecs/Laravel-lang
 - https://github.com/terdelyi/laravel-localedate
+- https://github.com/aXent/laravel-analyze-locale
 
 ### extensions
 
@@ -281,6 +318,7 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/saleemepoch/laravel-paypal
 - https://github.com/anouarabdsslm/laravel-paypalpayment
 - https://github.com/Payum/PayumLaravelPackage
+- https://github.com/laravel/cashier-braintree
 
 ### validator
 
@@ -359,6 +397,9 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/nilportugues/laravel5-jsonapi
 - https://github.com/tymondesigns/jwt-auth
 - https://github.com/dingo/blueprint
+- https://github.com/drmyersii/dingo-blueprint
+- https://github.com/drmyersii/dingo-api
+- https://github.com/qijitech/api-starter-kit
 
 ### social
 
@@ -385,6 +426,7 @@ http://cheats.jesse-obrien.ca/
 ### themes management
 
 - https://github.com/caffeinated/themes
+- https://github.com/igaster/laravel-theme
 
 ### tables
 
