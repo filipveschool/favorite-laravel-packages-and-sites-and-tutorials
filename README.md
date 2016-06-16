@@ -698,6 +698,63 @@ https://github.com/marlek/laravel-automigrate
 ### rest
 
 - https://github.com/aindong/pluggables
+ 
+### mails
+
+- https://github.com/caffeine-addicts/MailAwesome
+- https://github.com/Snowfire/Beautymail
+- https://github.com/Marwelln/recaptcha
+- https://github.com/mares29/laravel-google-recaptcha
+- https://github.com/pulkitjalan/laravel-mail-css-inliner
+- https://github.com/larablocks/pigeon
+- https://github.com/molteber/puz-autoembed
+- https://github.com/CawaKharkov/laravel-sender
+- https://github.com/mewebstudio/captcha
+- https://github.com/greggilbert/recaptcha
+
+### ecommerce
+
+https://github.com/spatie/checkout
+
+### inventory
+
+https://github.com/stevebauman/inventory
+
+### webshop
+
+- https://github.com/amsgames/laravel-shop
+- https://github.com/allanroberto18/marketplace
+- https://github.com/yewei-cao/noodle
+
+### currency
+
+- https://github.com/Torann/laravel-currency
+- https://github.com/spatie/valuestore
+- https://github.com/Casinelli/Currency
+
+### payment
+
+- https://github.com/navneetrai/laravel-subscription
+- https://github.com/net-shell/laravel-paypal
+- https://github.com/Shoperti/Payme
+- https://github.com/spatie/payment
+- https://github.com/dorelljames/laravel-billing
+- https://github.com/owlgrin/cashew
+- https://github.com/saleemepoch/laravel-paypal
+- https://github.com/anouarabdsslm/laravel-paypalpayment
+- https://github.com/Payum/PayumLaravelPackage
+- https://github.com/laravel/cashier-braintree
+
+### shoppingcart
+
+- https://github.com/Crinsane/LaravelShoppingcart
+- https://github.com/moltin/laravel-cart
+- https://github.com/darryldecode/laravelshoppingcart
+- https://github.com/anam-hossain/phpcart
+- https://github.com/lukepolo/laracart
+- https://github.com/overtrue/laravel-shopping-cart
+- https://github.com/rapideinternet/phpcart
+- https://github.com/actuallymab/laravel-shopping-cart
 
 ### awesome lists
 
@@ -718,6 +775,14 @@ https://github.com/marlek/laravel-automigrate
 - http://laraveldaily.com/
 - http://tutsnare.com/how-to-use-session-in-laravel/
 
+### tutorials
+
+- https://almsaeedstudio.com/blog/integrate-adminlte-with-laravel
+- https://gistlog.co/JacobBennett/090369fbab0b31130b51
+- http://baljeetsingh.in/blog/series-build-an-app-with-laravel5-backend-and-angularjs-frontend-part-2-555
+- https://asked.io/using-bootstrap-3-less-or-scss-with-elixir
+- https://www.youtube.com/watch?v=56TizEw2LgI&list=PL55RiY5tL51qUXDyBqx0mKVOhLNFwwxvH
+- http://itoocode.com/deploying-laravel-application-shared-hosting/
 
 
 ### random
