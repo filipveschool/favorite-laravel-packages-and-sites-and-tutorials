@@ -20,6 +20,16 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/barryvdh/laravel-debugbar
 - https://github.com/themsaid/laravel-mail-preview
 - https://github.com/jenssegers/laravel-rollbar
+
+### packages infyomlabs
+
+- https://github.com/InfyOmLabs/laravel-generator
+- https://github.com/InfyOmLabs/core-templates
+- https://github.com/InfyOmLabs/swagger-generator
+- https://github.com/InfyOmLabs/adminlte-templates
+- https://github.com/InfyOmLabs/generator-builder
+- https://github.com/InfyOmLabs/metronic-templates
+- https://github.com/InfyOmLabs/flatlab-templates
 - 
 
 ### qrcode
@@ -131,6 +141,8 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 - https://github.com/Latrell/Swagger
 - http://packalyst.com/packages/package/jlapp/swaggervel
+- https://github.com/TadasPaplauskas/apidocs
+- https://github.com/mpociot/laravel-apidoc-generator
 
 
 
@@ -257,6 +269,7 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/rappasoft/laravel-5-boilerplate
 - https://github.com/lavender/lavender
 - https://github.com/jadjoubran/laravel5-angular-material-starter
+- https://github.com/unicodeveloper/laravel-hackathon-starter
 
 ### settings
 
@@ -412,6 +425,7 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/romanbican/roles
 - https://github.com/yajra/laravel-acl
 - https://github.com/oasis1992/sociauth-laravel
+- https://github.com/caffeinated/shinobi
 
 ### routing
 
