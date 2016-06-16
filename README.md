@@ -163,7 +163,6 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * https://github.com/ARCANEDEV/SEO-Helper
 * https://github.com/rjacobsen2012/Eloquent-Model-Generator
 * https://github.com/austinkregel/Warden
-* https://github.com/efficiently/larasset
 * https://github.com/ra3oul/laravel-eloquent-abstract-repository
 
 
@@ -295,7 +294,6 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * https://github.com/SimpleSoftwareIO/simple-qrcode
 * https://github.com/LaravelCollective/remote
 * https://github.com/marcosrjjunior/lvlgrid
-* https://github.com/efficiently/larasset
 
 
 
