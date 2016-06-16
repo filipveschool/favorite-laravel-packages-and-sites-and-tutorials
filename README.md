@@ -403,21 +403,6 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
 * [Laramap](https://laramap.com/) - Interactive map of Laravel developers
 
-## CMS
-### Open Source
-* [OctoberCMS](http://octobercms.com/) - CMS platform built on Laravel
-* [PyroCMS](https://www.pyrocms.com/) - PHP CMS
-* [LavaliteCMS](http://www.lavalite.org/) - CMS built on Laravel 5.2
-* [WardRobeCMS](http://wardrobecms.com/) - A minimal blogging application
-* [Asgard CMS](https://asgardcms.com/) - A modular multilingual CMS built with Laravel 5
-* [TypiCMS](https://github.com/typicms/base) - Is a modular multilingual content management system built with Laravel 5.2
-* [0ez](http://demo.0ez.ru/root/login) - Laravel Lightweight Blogging CMS
-* [Microweber CMS](https://microweber.com/) - Create any kind of websites, shops or blogs faster than ever!
-* [Coaster Cms](http://www.coastercms.org/) - A Laravel based Content Management System with advanced features and The Physical Web Integration
-* [Bootstrap CMS](https://github.com/BootstrapCMS) - A PHP CMS powered by Laravel 5 and Sentry
-* [Larapress](https://github.com/larapress-cms/larapress) - A Laravel 4 CMS
-* [Jigsaw] (http://jigsaw.tighten.co) - Static sites for Laravel developers
-
 ##### View packages
 
 * [View-maker](https://github.com/evercode1/view-maker)
@@ -436,35 +421,6 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * [Admin](https://github.com/lembarek/admin)
 * [Adminpanel](https://github.com/digitlimit/adminpanel)
 
-
-### packages infyomlabs
-
-- https://github.com/InfyOmLabs/laravel-generator
-- https://github.com/InfyOmLabs/core-templates
-- https://github.com/InfyOmLabs/swagger-generator
-- https://github.com/InfyOmLabs/adminlte-templates
-- https://github.com/InfyOmLabs/generator-builder
-- https://github.com/InfyOmLabs/metronic-templates
-- https://github.com/InfyOmLabs/flatlab-templates
-- 
-
-### qrcode
-
-https://github.com/SimpleSoftwareIO/simple-qrcode
-
-
-### remote
-
-https://github.com/LaravelCollective/remote
-
-
-### crud
-
-- https://github.com/alcodo/crud
-- https://github.com/jan-dolata/crude-crud
-- https://github.com/isanmasiv/mrliputocrudlaravel
-- https://github.com/goszowski/crud-generator-admin-lte
-
 ### blade
 
 - https://github.com/sleeping-owl/blade-extended
@@ -472,55 +428,6 @@ https://github.com/LaravelCollective/remote
 - https://github.com/graciano/blade-helpers
 - https://github.com/Flynsarmy/laravel-db-blade-compiler
 - http://packalyst.com/packages/package/drahosistvan/blade-smartforeach
-
-### grids
-
-https://github.com/marcosrjjunior/lvlgrid
-
-### nog onderzoeken
-
-- https://github.com/Displore/Machete
-- https://github.com/libern/someline-starter
-- https://github.com/ra3oul/laravel-eloquent-abstract-repository
-
-### assets
-
-https://github.com/efficiently/larasset
-
-### packages barryvdh
-
-- https://github.com/barryvdh/laravel-cors
-- https://github.com/barryvdh/laravel-ide-helper
-
-### vue
-
-https://github.com/riverskies/laravel-vue-component
-
-### modules
-
-https://github.com/yubarajshrestha/laravelmodule
-
-### models
-
-- https://github.com/austinkregel/Warden
-- https://github.com/rjacobsen2012/Eloquent-Model-Generator
-
-### .env packages
-
-- https://github.com/kduma/L5-dotenv-filler
-- https://github.com/mathiasgrimm/laravel-dot-env-gen
-- https://github.com/svenluijten/flex-env
-
-### cdn
-
-http://packalyst.com/packages/package/vinelab/cdn
-
-### generators 
-
-- https://github.com/laralib/l5scaffold
-- https://github.com/bpocallaghan/generators
-- https://github.com/infyomlabs
-- https://laracogs.com/
 
 ### weather
 
@@ -544,20 +451,6 @@ https://github.com/Torann/laravel-weather
 - https://github.com/spatie/laravel-medialibrary
 - http://packalyst.com/packages/package/intervention/imagecache
 
-### documentation
-
-- https://github.com/Latrell/Swagger
-- http://packalyst.com/packages/package/jlapp/swaggervel
-- https://github.com/TadasPaplauskas/apidocs
-- https://github.com/mpociot/laravel-apidoc-generator
-
-### making packages
-
-- https://github.com/neelkanthk/larapackboiler
-- https://github.com/furkankadioglu/Modvel
-- https://github.com/Jeroen-G/laravel-packager
-- https://github.com/ptondereau/laravel-packme
-
 ### newsletters
 
 https://github.com/spatie/laravel-newsletter
@@ -567,10 +460,6 @@ https://github.com/spatie/laravel-newsletter
 - https://github.com/jenssegers/date
 - https://github.com/unicodeveloper/laravel-yearly
 - https://github.com/camroncade/timezone
-
-### seo
-
-https://github.com/ARCANEDEV/SEO-Helper
 
 ### geocoding
 
@@ -625,8 +514,6 @@ https://github.com/SmoDav/flash
 - https://github.com/DougSisk/laravel-country-state
 - https://github.com/bestboysmedialab/language-list
 
-
-
 ### extensions
 
 https://github.com/jumilla/laravel-extension
@@ -641,9 +528,6 @@ https://github.com/jumilla/laravel-extension
 
 - https://github.com/mbcraft/LaravelUtils
 
-### example projects
-
-
 ### settings
 
 - https://github.com/anomalylabs/settings-module
@@ -655,17 +539,6 @@ https://github.com/jumilla/laravel-extension
 - https://github.com/FbF/Laravel-Blog
 - http://www.blogify.io/
 
-### shoppingcart
-
-- https://github.com/Crinsane/LaravelShoppingcart
-- https://github.com/moltin/laravel-cart
-- https://github.com/darryldecode/laravelshoppingcart
-- https://github.com/anam-hossain/phpcart
-- https://github.com/lukepolo/laracart
-- https://github.com/overtrue/laravel-shopping-cart
-- https://github.com/rapideinternet/phpcart
-- https://github.com/actuallymab/laravel-shopping-cart
-
 ### credentials
 
 https://github.com/BootstrapCMS/Credentials
@@ -676,15 +549,6 @@ https://github.com/BootstrapCMS/Credentials
 - https://github.com/BootstrapCMS/Navigation
 - https://github.com/spotonlive/sl-navigation
 
-### metadata
-
-- https://github.com/chrismichaels84/eloquent-meta
-- https://github.com/eusonlito/laravel-Meta
-- https://github.com/Torann/laravel-meta-tags
-- https://github.com/gwnobots/laravel-head
-- https://github.com/chriskonnertz/open-graph
-- https://github.com/artesaos/seotools
-
 ### the movie database
 
 https://github.com/php-tmdb/laravel
@@ -693,19 +557,6 @@ https://github.com/php-tmdb/laravel
 
 - https://github.com/AlfredoRamos/parsedown-extra-laravel
 - https://github.com/AbuseIO/parser-common
-
-### payment
-
-- https://github.com/navneetrai/laravel-subscription
-- https://github.com/net-shell/laravel-paypal
-- https://github.com/Shoperti/Payme
-- https://github.com/spatie/payment
-- https://github.com/dorelljames/laravel-billing
-- https://github.com/owlgrin/cashew
-- https://github.com/saleemepoch/laravel-paypal
-- https://github.com/anouarabdsslm/laravel-paypalpayment
-- https://github.com/Payum/PayumLaravelPackage
-- https://github.com/laravel/cashier-braintree
 
 ### validator
 
@@ -727,7 +578,6 @@ https://github.com/BootstrapCMS/Contact
 - https://github.com/Tucker-Eric/EloquentFilter
 - https://github.com/20TRIES/filterable
 
-
 ### seeding
 
 https://github.com/StydeNet/seeder
@@ -741,13 +591,6 @@ https://github.com/StydeNet/seeder
 - https://github.com/larkinwhitaker/laravel-table-view
 - https://github.com/leparking/laravel-sortable
 - https://github.com/AM2studio/Laravel-TableSorter
-
-### currency
-
-- https://github.com/Torann/laravel-currency
-- https://github.com/spatie/valuestore
-- https://github.com/Casinelli/Currency
-
 
 ### rating
 
@@ -767,28 +610,6 @@ https://github.com/softon/laravel-face-detect
 ### nesting
 
 https://github.com/TypiCMS/NestableCollection
-
-### inventory
-
-https://github.com/stevebauman/inventory
-
-### webshop
-
-- https://github.com/amsgames/laravel-shop
-- https://github.com/allanroberto18/marketplace
-- https://github.com/yewei-cao/noodle
-
-### restful api
-
-- https://github.com/marcelgwerder/laravel-api-handler
-- https://github.com/teepluss/laravel-restable
-- https://github.com/dingo/api
-- https://github.com/nilportugues/laravel5-jsonapi
-- https://github.com/tymondesigns/jwt-auth
-- https://github.com/dingo/blueprint
-- https://github.com/drmyersii/dingo-blueprint
-- https://github.com/drmyersii/dingo-api
-- https://github.com/qijitech/api-starter-kit
 
 ### social
 
@@ -819,28 +640,11 @@ https://github.com/gbrock/laravel-table
 - https://github.com/tedslittlerobot/menu-builder
 - https://github.com/Jimbolino/laravel-model-builder
 
-### ecommerce
-
-https://github.com/spatie/checkout
-
 ### packages van spatie
 
 - https://github.com/spatie/laravel-demo-mode
 - https://github.com/spatie/laravel-link-checker
 - https://github.com/spatie/laravel-tail
-
-### mails
-
-- https://github.com/caffeine-addicts/MailAwesome
-- https://github.com/Snowfire/Beautymail
-- https://github.com/Marwelln/recaptcha
-- https://github.com/mares29/laravel-google-recaptcha
-- https://github.com/pulkitjalan/laravel-mail-css-inliner
-- https://github.com/larablocks/pigeon
-- https://github.com/molteber/puz-autoembed
-- https://github.com/CawaKharkov/laravel-sender
-- https://github.com/mewebstudio/captcha
-- https://github.com/greggilbert/recaptcha
 
 ### comments
 
@@ -869,13 +673,9 @@ https://github.com/marlek/laravel-automigrate
 - https://github.com/aindong/pluggables
 - https://github.com/hootlex/laravel-friendships
 
-
-
 ### templates 
 
 https://github.com/acacha/adminlte-laravel
-
-
 
 ### awesome lists
 
@@ -896,14 +696,7 @@ https://github.com/acacha/adminlte-laravel
 - http://laraveldaily.com/
 - http://tutsnare.com/how-to-use-session-in-laravel/
 
-### tutorials
 
-- https://almsaeedstudio.com/blog/integrate-adminlte-with-laravel
-- https://gistlog.co/JacobBennett/090369fbab0b31130b51
-- http://baljeetsingh.in/blog/series-build-an-app-with-laravel5-backend-and-angularjs-frontend-part-2-555
-- https://asked.io/using-bootstrap-3-less-or-scss-with-elixir
-- https://www.youtube.com/watch?v=56TizEw2LgI&list=PL55RiY5tL51qUXDyBqx0mKVOhLNFwwxvH
-- http://itoocode.com/deploying-laravel-application-shared-hosting/
 
 ### random
 
