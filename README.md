@@ -38,6 +38,9 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 ## Cheat sheets
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 * [Laravel Cheat Sheet 5.1 LTS](https://summerblue.github.io/laravel5-cheatsheet/)
+* https://www.cheatography.com/explore/tags/
+* https://github.com/detailyang/awesome-cheatsheet
+* https://github.com/summerblue/laravel5-cheatsheet
 
 ## Code Snippets
 * [Laravel Tricks](http://laravel-tricks.com/)
@@ -881,13 +884,7 @@ https://github.com/marlek/laravel-automigrate
 
 https://github.com/acacha/adminlte-laravel
 
-### cheatsheets
 
-- https://www.cheatography.com/explore/tags/
-- https://github.com/detailyang/awesome-cheatsheet
-
-- http://cheats.jesse-obrien.ca/
-- https://github.com/summerblue/laravel5-cheatsheet
 
 ### awesome lists
 
