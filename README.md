@@ -1,10 +1,62 @@
-# favorite-laravel-packages-and-sites-and-tutorials
+Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
+===============
 
-Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor overzicht te behouden. Alsook tutorials etc.
+> Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor overzicht te behouden. Alsook tutorials etc.
+> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
-##packages
+## Table of Contents
 
-### view-packages
+- [Essentials](#essentials)
+- [Cheat sheets](#cheatsheets)
+- [Code Snippets](#code-snippets)
+- [Packages](#packages)
+- [My favorite packages](#myfavoritepackages)
+- [Popular Packages](#popular-packages)
+- [Development Setup](#development-setup)
+- [Application Hosting](#application-hosting)
+- [Application Deployment](#application-deployment)
+- [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
+- [Videos](#videos)
+- [Books](#books)
+- [Starter Projects](#starter-projects)
+- [Codebases for Reference](#codebases-for-reference)
+- [Newsletters](#newsletters)
+- [Hosted Development Tools](#hosted-development-tools)
+- [Miscellaneous](#miscellaneous)
+- [CMS](#cms)
+
+## Essentials
+* [Laravel](http://laravel.com)
+* [Laravel Documentation](http://laravel.com/docs)
+* [Laravel API Reference](http://laravel.com/api/master)
+* [Lumen](http://lumen.laravel.com)
+* [Lumen Documentation](http://lumen.laravel.com/docs)
+* [Laracasts](http://laracasts.com)
+* [Laravel News](https://laravel-news.com)
+* [StyleCI](https://styleci.io)
+
+## Cheat sheets
+* [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
+* [Laravel Cheat Sheet 5.1 LTS](https://summerblue.github.io/laravel5-cheatsheet/)
+
+## Code Snippets
+* [Laravel Tricks](http://laravel-tricks.com/)
+* [Laravel Recipes](http://laravel-recipes.com/)
+
+## Packages
+* [Packagist](https://packagist.org/)
+* [Laravel Collective](http://laravelcollective.com/)
+* [Packalyst](http://packalyst.com/)
+* [Cartalyst](https://cartalyst.com/)
+* [Spatie](https://spatie.be/opensource/laravel)
+
+### My favorite packages
+
+- [View packages](#view-packages)
+
+
+
+### View packages
 
 - https://github.com/evercode1/view-maker
 - https://github.com/svenluijten/artisan-view
