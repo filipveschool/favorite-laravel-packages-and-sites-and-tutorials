@@ -67,6 +67,13 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * https://github.com/isanmasiv/mrliputocrudlaravel
 * https://github.com/jan-dolata/crude-crud
 * https://github.com/alcodo/crud
+* 
+##### Making packages
+
+* https://github.com/neelkanthk/larapackboiler
+* https://github.com/furkankadioglu/Modvel
+* https://github.com/Jeroen-G/laravel-packager
+* https://github.com/ptondereau/laravel-packme
 
 
 ##### Debugging & Profiling
