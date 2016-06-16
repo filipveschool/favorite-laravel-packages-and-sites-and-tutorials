@@ -159,8 +159,15 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 ##### APIs
 * [ApiGuard](https://github.com/chrisbjr/api-guard) - Allow API authentication with API keys
 * [Dingo API](https://github.com/dingo/api) - Multi-purpose toolkit for developing RESTful APIs
+* [Dingo blueprint api](- https://github.com/dingo/blueprint)
+* [Dingo api other version](- https://github.com/drmyersii/dingo-api)
+* [Dingo blueprint other version](https://github.com/drmyersii/dingo-blueprint)
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 * [Laravel Fractal](https://github.com/spatie/laravel-fractal) - Output complex, flexible, AJAX/RESTful data structures with Fractal in Laravel and Lumen
+* https://github.com/marcelgwerder/laravel-api-handler
+* https://github.com/teepluss/laravel-restable
+* https://github.com/nilportugues/laravel5-jsonapi
+* https://github.com/qijitech/api-starter-kit
 
 ##### Tasks, Commands and Scheduling
 * [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
