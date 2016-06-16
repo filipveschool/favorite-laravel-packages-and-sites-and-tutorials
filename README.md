@@ -7,16 +7,14 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 ### view-packages
 
 - https://github.com/evercode1/view-maker
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- https://github.com/svenluijten/artisan-view
+
+### crud
+- https://github.com/lembarek/admin
+
+### crud
+
+- https://github.com/alcodo/crud
 
 ### .env packages
 
@@ -80,6 +78,10 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 - https://github.com/rtconner/laravel-likeable
 
+### forms
+
+- https://github.com/austinkregel/formmodel
+
 ### eloquent
 
 - https://github.com/kirkbushell/eloquence
@@ -93,6 +95,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/Monarobase/country-list
 - https://github.com/ArberD/geonames
 - https://github.com/DougSisk/laravel-country-state
+- https://github.com/bestboysmedialab/language-list
 
 ### localization - languages
 
@@ -108,6 +111,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/risenohk/localizable
 - https://github.com/Folkloreatelier/laravel-locale
 - https://github.com/ufirstgroup/laravel-lang-import-export
+- https://github.com/rohitsubedi/laravel-localization
 
 ### extensions
 
@@ -151,6 +155,8 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/anam-hossain/phpcart
 - https://github.com/lukepolo/laracart
 - https://github.com/overtrue/laravel-shopping-cart
+- https://github.com/rapideinternet/phpcart
+- https://github.com/actuallymab/laravel-shopping-cart
 
 ### credentials
 
@@ -184,7 +190,17 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/net-shell/laravel-paypal
 - https://github.com/Shoperti/Payme
 - https://github.com/spatie/payment
+- https://github.com/dorelljames/laravel-billing
+- https://github.com/owlgrin/cashew
+- https://github.com/saleemepoch/laravel-paypal
 
+### validator
+
+- https://github.com/rap2hpoutre/laravel-credit-card-validator
+- 
+### angular
+
+- https://github.com/jadjoubran/laravel-ng-artisan-generators
 
 ### contact packages
 
