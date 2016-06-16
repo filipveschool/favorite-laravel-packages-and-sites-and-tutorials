@@ -40,7 +40,6 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * [Laravel Cheat Sheet 5.1 LTS](https://summerblue.github.io/laravel5-cheatsheet/)
 * https://www.cheatography.com/explore/tags/
 * https://github.com/detailyang/awesome-cheatsheet
-* https://github.com/summerblue/laravel5-cheatsheet
 
 ## Code Snippets
 * [Laravel Tricks](http://laravel-tricks.com/)
@@ -460,17 +459,9 @@ https://github.com/Torann/laravel-weather
 
 - https://github.com/Folkloreatelier/eloquent-mediatheque
 - https://github.com/cipemotion/medialibrary
-- https://github.com/Intervention/image
-- https://github.com/spatie/laravel-medialibrary
-- http://packalyst.com/packages/package/intervention/imagecache
-
-### newsletters
-
-https://github.com/spatie/laravel-newsletter
 
 ### date packages
 
-- https://github.com/jenssegers/date
 - https://github.com/unicodeveloper/laravel-yearly
 - https://github.com/camroncade/timezone
 
@@ -481,7 +472,6 @@ https://github.com/spatie/geocoder
 ### artisan
 
 - https://github.com/hmazter/laravel-schedule-list
-- https://github.com/Indatus/dispatcher
 - https://github.com/LeShadow/ArtisanExtended
 
 ### testing
@@ -490,7 +480,6 @@ https://github.com/orchestral/testbench
 
 ### file upload
 
-- https://github.com/CodeSleeve/laravel-stapler
 - http://packalyst.com/packages/package/anavel/uploads
 
 ### mobile devices packages
@@ -510,11 +499,9 @@ https://github.com/SmoDav/flash
 ### forms
 
 - https://github.com/austinkregel/formmodel
-- https://github.com/LaravelCollective/html
 
 ### eloquent
 
-- https://github.com/kirkbushell/eloquence
 - https://github.com/AdrianSkierniewski/eloquent-tree
 
 ### countries
@@ -626,7 +613,6 @@ https://github.com/TypiCMS/NestableCollection
 
 ### social
 
-- https://github.com/overtrue/socialite
 - https://github.com/SocialiteProviders/Manager
 
 ### routing
@@ -637,7 +623,6 @@ https://github.com/dwightwatson/active
 
 - https://github.com/viraj-khatavkar/easy-slug
 - https://github.com/spatie/laravel-sluggable
-- https://github.com/cviebrock/eloquent-sluggable
 
 ### themes management
 
@@ -657,7 +642,6 @@ https://github.com/gbrock/laravel-table
 
 - https://github.com/spatie/laravel-demo-mode
 - https://github.com/spatie/laravel-link-checker
-- https://github.com/spatie/laravel-tail
 
 ### comments
 
@@ -684,11 +668,6 @@ https://github.com/marlek/laravel-automigrate
 ### rest
 
 - https://github.com/aindong/pluggables
-- https://github.com/hootlex/laravel-friendships
-
-### templates 
-
-https://github.com/acacha/adminlte-laravel
 
 ### awesome lists
 
