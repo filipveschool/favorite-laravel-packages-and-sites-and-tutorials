@@ -258,10 +258,7 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * [Laravel Translation](https://github.com/waavi/translation) - Allow live edit/caching of translation entries, and localization of urls and Eloquent Model attributes.
 
 * https://github.com/aewebsolutions/laravel-translator
-* https://github.com/mohd-isa/locally
-* https://github.com/thinktomorrow/locale
 * https://github.com/vinkla/translator
-* https://github.com/vluzrmos/laravel-language-detector
 * https://github.com/ARCANEDEV/Localization
 * https://github.com/Folkloreatelier/eloquent-localizable
 * https://github.com/themsaid/laravel-multilingual
@@ -269,7 +266,6 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * https://github.com/Folkloreatelier/laravel-locale
 * https://github.com/ufirstgroup/laravel-lang-import-export
 * https://github.com/rohitsubedi/laravel-localization
-* https://github.com/Lykegenes/laravel-locale-switcher
 * https://github.com/terdelyi/laravel-localedate
 * https://github.com/aXent/laravel-analyze-locale
 
