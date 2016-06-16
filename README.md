@@ -9,12 +9,41 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/evercode1/view-maker
 - https://github.com/svenluijten/artisan-view
 
-### crud
+### debugging
+
+- https://github.com/shvetsgroup/laravel-email-database-log
+- https://github.com/itsgoingd/clockwork
+- https://github.com/barryvdh/laravel-debugbar
+- 
+
+### admin
+
 - https://github.com/lembarek/admin
 
 ### crud
 
 - https://github.com/alcodo/crud
+- https://github.com/jan-dolata/crude-crud
+- 
+
+### packages barryvdh
+
+- https://github.com/barryvdh/laravel-cors
+- https://github.com/barryvdh/laravel-ide-helper
+
+### vue
+
+- https://github.com/riverskies/laravel-vue-component
+
+### modules
+
+- https://github.com/yubarajshrestha/laravelmodule
+- 
+
+### models
+
+- https://github.com/austinkregel/Warden
+- https://github.com/rjacobsen2012/Eloquent-Model-Generator
 
 ### .env packages
 
@@ -37,6 +66,14 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 ### exceptions 
 
 - https://github.com/ichtus/exceptions
+- 
+
+## media
+
+- https://github.com/Folkloreatelier/eloquent-mediatheque
+- https://github.com/cipemotion/medialibrary
+- https://github.com/Intervention/image
+
 
 ### making packages
 
@@ -73,6 +110,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 ### mobile devices packages
 
 - https://github.com/hisorange/browser-detect
+- https://github.com/jenssegers/agent
 
 ### plugins
 
@@ -81,6 +119,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 ### forms
 
 - https://github.com/austinkregel/formmodel
+- https://github.com/LaravelCollective/html
 
 ### eloquent
 
@@ -91,7 +130,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 - https://github.com/webpatser/laravel-countries
 - https://github.com/petercoles/Multilingual-Language-List
-- http://packalyst.com/packages/package/petercoles/multilingual-country-list
+- https://github.com/petercoles/Multilingual-Country-List
 - https://github.com/Monarobase/country-list
 - https://github.com/ArberD/geonames
 - https://github.com/DougSisk/laravel-country-state
@@ -105,13 +144,15 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/vinkla/translator
 - https://github.com/vluzrmos/laravel-language-detector
 - https://github.com/ARCANEDEV/Localization
-- http://packalyst.com/packages/package/folklore/eloquent-localizable
+- https://github.com/Folkloreatelier/eloquent-localizable
 - https://github.com/themsaid/laravel-langman
 - https://github.com/themsaid/laravel-multilingual
 - https://github.com/risenohk/localizable
 - https://github.com/Folkloreatelier/laravel-locale
 - https://github.com/ufirstgroup/laravel-lang-import-export
 - https://github.com/rohitsubedi/laravel-localization
+- https://github.com/Lykegenes/laravel-locale-switcher
+- https://github.com/caouecs/Laravel-lang
 
 ### extensions
 
@@ -121,6 +162,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 - https://github.com/php-soft/laravel-photos
 - https://github.com/Jeroen-G/laravel-photo-gallery
+- https://github.com/artesaos/attacher
 
 ### cheatsheets
 
@@ -137,11 +179,15 @@ http://cheats.jesse-obrien.ca/
 
 ### boilerplates
 
+- https://github.com/rappasoft/laravel-5-boilerplate
+- https://github.com/lavender/lavender
+- https://github.com/jadjoubran/laravel5-angular-material-starter
 
 ### settings
 
 - https://github.com/anomalylabs/settings-module
 - https://github.com/Torann/laravel-registry
+- https://github.com/erayaydin/laravel-config
 
 ### blogging
 
@@ -174,6 +220,8 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/eusonlito/laravel-Meta
 - https://github.com/Torann/laravel-meta-tags
 - https://github.com/gwnobots/laravel-head
+- https://github.com/chriskonnertz/open-graph
+- https://github.com/artesaos/seotools
 
 ### the movie database
 
@@ -193,6 +241,7 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/dorelljames/laravel-billing
 - https://github.com/owlgrin/cashew
 - https://github.com/saleemepoch/laravel-paypal
+- https://github.com/anouarabdsslm/laravel-paypalpayment
 
 ### validator
 
@@ -212,6 +261,7 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/cerbero90/query-filters
 - https://github.com/heroicpixels/filterable
 - https://github.com/Tucker-Eric/EloquentFilter
+- https://github.com/20TRIES/filterable
 
 
 ### seeding
@@ -225,6 +275,8 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/Kyslik/column-sortable
 - https://github.com/spatie/eloquent-sortable
 - https://github.com/larkinwhitaker/laravel-table-view
+- https://github.com/leparking/laravel-sortable
+- https://github.com/AM2studio/Laravel-TableSorter
 
 ### currency
 
@@ -246,6 +298,7 @@ http://cheats.jesse-obrien.ca/
 
 - https://github.com/cartalyst/tags
 - https://github.com/cviebrock/eloquent-taggable
+- https://github.com/summerblue/laravel-taggable
 
 ### nesting
 
@@ -262,6 +315,17 @@ http://cheats.jesse-obrien.ca/
 ### restful api
 
 - https://github.com/marcelgwerder/laravel-api-handler
+- https://github.com/teepluss/laravel-restable
+- https://github.com/dingo/api
+
+### social
+
+- https://github.com/overtrue/socialite
+- 
+
+### routing
+
+- https://github.com/dwightwatson/active
 
 ### slugs
 
@@ -293,19 +357,22 @@ http://cheats.jesse-obrien.ca/
 ### mails
 
 - https://github.com/caffeine-addicts/MailAwesome
+- https://github.com/Snowfire/Beautymail
+- https://github.com/Marwelln/recaptcha
+- https://github.com/pulkitjalan/laravel-mail-css-inliner
+- https://github.com/larablocks/pigeon
+- https://github.com/molteber/puz-autoembed
 
 ### comments
 
 - https://github.com/php-soft/laravel-comments
 - https://github.com/Slynova-Org/laravel-commentable
+- https://github.com/actuallymab/laravel-comment
 
 ### migrations
 
 - https://github.com/marlek/laravel-automigrate
 
-## media
-
-- https://github.com/Folkloreatelier/eloquent-mediatheque
 
 ### users
 
@@ -317,6 +384,7 @@ http://cheats.jesse-obrien.ca/
 
 - https://github.com/matriphe/format
 - https://github.com/Regulus343/TetraText
+- https://github.com/honarkhah/conversion
 
 ### rest
 
