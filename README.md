@@ -11,7 +11,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 ### traits
 
-- https://github.com/evercode1/trait-maker
+https://github.com/evercode1/trait-maker
 
 ### debugging
 
@@ -20,6 +20,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/barryvdh/laravel-debugbar
 - https://github.com/themsaid/laravel-mail-preview
 - https://github.com/jenssegers/laravel-rollbar
+- https://github.com/fitztrev/query-tracer
 
 ### packages infyomlabs
 
@@ -34,17 +35,15 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 ### qrcode
 
-- https://github.com/SimpleSoftwareIO/simple-qrcode
-- 
+https://github.com/SimpleSoftwareIO/simple-qrcode
 
 ### feeds
 
-- https://github.com/RoumenDamianoff/laravel-feed
-- 
+https://github.com/RoumenDamianoff/laravel-feed
 
 ### remote
 
-- https://github.com/LaravelCollective/remote
+https://github.com/LaravelCollective/remote
 
 ### admin
 
@@ -65,11 +64,10 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/graciano/blade-helpers
 - https://github.com/Flynsarmy/laravel-db-blade-compiler
 - http://packalyst.com/packages/package/drahosistvan/blade-smartforeach
-- 
 
 ### grids
 
-- https://github.com/marcosrjjunior/lvlgrid
+https://github.com/marcosrjjunior/lvlgrid
 
 ### nog onderzoeken
 
@@ -79,7 +77,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 ### assets
 
-- https://github.com/efficiently/larasset
+https://github.com/efficiently/larasset
 
 ### packages barryvdh
 
@@ -88,12 +86,11 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 ### vue
 
-- https://github.com/riverskies/laravel-vue-component
+https://github.com/riverskies/laravel-vue-component
 
 ### modules
 
-- https://github.com/yubarajshrestha/laravelmodule
-- 
+https://github.com/yubarajshrestha/laravelmodule
 
 ### models
 
@@ -105,19 +102,21 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/kduma/L5-dotenv-filler
 - https://github.com/mathiasgrimm/laravel-dot-env-gen
 - https://github.com/svenluijten/flex-env
-- 
+
 ### cdn
 
-- http://packalyst.com/packages/package/vinelab/cdn
+http://packalyst.com/packages/package/vinelab/cdn
 
 ### generators 
 
 - https://github.com/laralib/l5scaffold
 - https://github.com/bpocallaghan/generators
+- https://github.com/infyomlabs
+- https://laracogs.com/
 
 ### weather
 
-- https://github.com/Torann/laravel-weather
+https://github.com/Torann/laravel-weather
 
 ### google maps
 
@@ -144,8 +143,6 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/TadasPaplauskas/apidocs
 - https://github.com/mpociot/laravel-apidoc-generator
 
-
-
 ### making packages
 
 - https://github.com/neelkanthk/larapackboiler
@@ -155,7 +152,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 ### newsletters
 
-- https://github.com/spatie/laravel-newsletter
+https://github.com/spatie/laravel-newsletter
 
 ### date packages
 
@@ -163,14 +160,13 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/unicodeveloper/laravel-yearly
 - https://github.com/camroncade/timezone
 
-
 ### seo
 
-- https://github.com/ARCANEDEV/SEO-Helper
+https://github.com/ARCANEDEV/SEO-Helper
 
 ### geocoding
 
-- https://github.com/spatie/geocoder
+https://github.com/spatie/geocoder
 
 ### artisan
 
@@ -180,7 +176,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 ### testing
 
-- https://github.com/orchestral/testbench
+https://github.com/orchestral/testbench
 
 ### file upload
 
@@ -195,11 +191,11 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 ### plugins
 
-- https://github.com/rtconner/laravel-likeable
+https://github.com/rtconner/laravel-likeable
 
 ### flash messages
 
-- https://github.com/SmoDav/flash
+https://github.com/SmoDav/flash
 
 ### forms
 
@@ -243,7 +239,7 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 
 ### extensions
 
-- https://github.com/jumilla/laravel-extension
+https://github.com/jumilla/laravel-extension
 
 ### photos
 
@@ -251,25 +247,12 @@ Hier bewaar ik een overzicht per categorie van al mijn favoriete packages voor o
 - https://github.com/Jeroen-G/laravel-photo-gallery
 - https://github.com/artesaos/attacher
 
-### cheatsheets
-
-http://cheats.jesse-obrien.ca/
-
 ### helper packages
 
 - https://github.com/mbcraft/LaravelUtils
 
 ### example projects
 
-- https://github.com/allanroberto18/marketplace
-- https://github.com/yewei-cao/noodle
-
-### boilerplates
-
-- https://github.com/rappasoft/laravel-5-boilerplate
-- https://github.com/lavender/lavender
-- https://github.com/jadjoubran/laravel5-angular-material-starter
-- https://github.com/unicodeveloper/laravel-hackathon-starter
 
 ### settings
 
@@ -280,6 +263,7 @@ http://cheats.jesse-obrien.ca/
 ### blogging
 
 - https://github.com/FbF/Laravel-Blog
+- http://www.blogify.io/
 
 ### shoppingcart
 
@@ -294,7 +278,7 @@ http://cheats.jesse-obrien.ca/
 
 ### credentials
 
-- https://github.com/BootstrapCMS/Credentials
+https://github.com/BootstrapCMS/Credentials
 
 ### navigation
 
@@ -313,7 +297,7 @@ http://cheats.jesse-obrien.ca/
 
 ### the movie database
 
-- https://github.com/php-tmdb/laravel
+https://github.com/php-tmdb/laravel
 
 ### markdown support laravel
 
@@ -335,15 +319,15 @@ http://cheats.jesse-obrien.ca/
 
 ### validator
 
-- https://github.com/rap2hpoutre/laravel-credit-card-validator
-- 
+https://github.com/rap2hpoutre/laravel-credit-card-validator
+
 ### angular
 
-- https://github.com/jadjoubran/laravel-ng-artisan-generators
+https://github.com/jadjoubran/laravel-ng-artisan-generators
 
 ### contact packages
 
-- https://github.com/BootstrapCMS/Contact
+https://github.com/BootstrapCMS/Contact
 
 ### filters
 
@@ -356,7 +340,7 @@ http://cheats.jesse-obrien.ca/
 
 ### seeding
 
-- https://github.com/StydeNet/seeder
+https://github.com/StydeNet/seeder
 
 ### sorting
 
@@ -382,7 +366,7 @@ http://cheats.jesse-obrien.ca/
 
 ### face-detection
 
-- https://github.com/softon/laravel-face-detect
+https://github.com/softon/laravel-face-detect
 
 ### tagging
 
@@ -392,15 +376,17 @@ http://cheats.jesse-obrien.ca/
 
 ### nesting
 
-- https://github.com/TypiCMS/NestableCollection
+https://github.com/TypiCMS/NestableCollection
 
 ### inventory
 
-- https://github.com/stevebauman/inventory
+https://github.com/stevebauman/inventory
 
 ### webshop
 
 - https://github.com/amsgames/laravel-shop
+- https://github.com/allanroberto18/marketplace
+- https://github.com/yewei-cao/noodle
 
 ### restful api
 
@@ -418,7 +404,6 @@ http://cheats.jesse-obrien.ca/
 
 - https://github.com/overtrue/socialite
 - https://github.com/SocialiteProviders/Manager
-- 
 
 ### authentication
 
@@ -426,10 +411,11 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/yajra/laravel-acl
 - https://github.com/oasis1992/sociauth-laravel
 - https://github.com/caffeinated/shinobi
+- https://github.com/edvinaskrucas/laravel-user-email-verification
 
 ### routing
 
-- https://github.com/dwightwatson/active
+https://github.com/dwightwatson/active
 
 ### slugs
 
@@ -444,7 +430,7 @@ http://cheats.jesse-obrien.ca/
 
 ### tables
 
-- https://github.com/gbrock/laravel-table
+https://github.com/gbrock/laravel-table
 
 ### menus
 
@@ -453,7 +439,7 @@ http://cheats.jesse-obrien.ca/
 
 ### ecommerce
 
-- https://github.com/spatie/checkout
+https://github.com/spatie/checkout
 
 ### packages van spatie
 
@@ -482,8 +468,7 @@ http://cheats.jesse-obrien.ca/
 
 ### migrations
 
-- https://github.com/marlek/laravel-automigrate
-
+https://github.com/marlek/laravel-automigrate
 
 ### users
 
@@ -502,6 +487,64 @@ http://cheats.jesse-obrien.ca/
 - https://github.com/aindong/pluggables
 - https://github.com/hootlex/laravel-friendships
 
+### boilerplates
+
+- https://github.com/rappasoft/laravel-5-boilerplate
+- https://github.com/lavender/lavender
+- https://github.com/jadjoubran/laravel5-angular-material-starter
+- https://github.com/unicodeveloper/laravel-hackathon-starter
+- https://github.com/silverbux/laravel-angular-admin
+- https://github.com/thunder87/Laravel-Admin-Starter
+
+### templates 
+
+https://github.com/acacha/adminlte-laravel
+
+### cheatsheets
+
+- https://www.cheatography.com/explore/tags/
+- https://github.com/detailyang/awesome-cheatsheet
+
+- http://cheats.jesse-obrien.ca/
+- https://github.com/summerblue/laravel5-cheatsheet
+
+### awesome lists
+
+- https://github.com/chiraggude/awesome-laravel
+- https://github.com/TimothyDJones/awesome-laravel
+- https://github.com/unicodeveloper/resources-i-like#laravel
+- https://github.com/svenluijten/awesome-laravel
+- http://www.websmentor.com/laravel-cheat-sheet-artisan-routes/
+
+### super sites for laravel
+
+- http://laravelfeed.com/
+- https://laravel-news.com/
+- https://www.dunebook.com
+- http://itsolutionstuff.com/category/laravelexample.html
+- http://blog.sarav.co/
+- https://laracasts.com/series/laravel-5-from-scratch/episodes/4
+- http://laraveldaily.com/
+- http://tutsnare.com/how-to-use-session-in-laravel/
+
 ### tutorials
 
+- https://almsaeedstudio.com/blog/integrate-adminlte-with-laravel
+- https://gistlog.co/JacobBennett/090369fbab0b31130b51
+- http://baljeetsingh.in/blog/series-build-an-app-with-laravel5-backend-and-angularjs-frontend-part-2-555
+- https://asked.io/using-bootstrap-3-less-or-scss-with-elixir
+- https://www.youtube.com/watch?v=56TizEw2LgI&list=PL55RiY5tL51qUXDyBqx0mKVOhLNFwwxvH
+- http://itoocode.com/deploying-laravel-application-shared-hosting/
+
+### random
+
+- https://creativemarket.com/blog/2015/11/03/the-missing-cheatsheet-for-brilliant-color-combinations?utm_source=ownedsocial&utm_medium=social&utm_campaign=blogposts&utm_content=infographicscheatsheets
 - 
+### css libraries
+
+
+
+### sass libraries
+
+
+
