@@ -60,6 +60,14 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * https://github.com/Latrell/Swagger
 * http://packalyst.com/packages/package/jlapp/swaggervel
 * https://github.com/TadasPaplauskas/apidocs
+* https://laracogs.com/
+* https://github.com/bpocallaghan/generators
+* https://github.com/laralib/l5scaffold
+* https://github.com/goszowski/crud-generator-admin-lte
+* https://github.com/isanmasiv/mrliputocrudlaravel
+* https://github.com/jan-dolata/crude-crud
+* https://github.com/alcodo/crud
+
 
 ##### Debugging & Profiling
 * [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps
