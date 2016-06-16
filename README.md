@@ -871,7 +871,6 @@ https://github.com/jumilla/laravel-extension
 
 ### settings
 
-- https://github.com/anomalylabs/settings-module
 - https://github.com/Torann/laravel-registry
 - https://github.com/erayaydin/laravel-config
 
