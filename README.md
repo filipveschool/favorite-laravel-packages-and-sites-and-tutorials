@@ -773,11 +773,6 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 
 * [laravel-feed make](https://github.com/RoumenDamianoff/laravel-feed)
 
-##### Admin
-
-* [Admin](https://github.com/lembarek/admin)
-* [Adminpanel](https://github.com/digitlimit/adminpanel)
-
 ### Blade
 
 - https://github.com/sleeping-owl/blade-extended
