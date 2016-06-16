@@ -20,17 +20,14 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 - [Books](#books)
 - [Starter Projects](#starter-projects)
 - [Codebases for Reference](#codebases-for-reference)
-- [Newsletters](#newsletters)
 - [Hosted Development Tools](#hosted-development-tools)
 - [Miscellaneous](#miscellaneous)
-- [CMS](#cms)
+
 
 ## Essentials
 * [Laravel](http://laravel.com)
 * [Laravel Documentation](http://laravel.com/docs)
 * [Laravel API Reference](http://laravel.com/api/master)
-* [Lumen](http://lumen.laravel.com)
-* [Lumen Documentation](http://lumen.laravel.com/docs)
 * [Laracasts](http://laracasts.com)
 * [Laravel News](https://laravel-news.com)
 * [StyleCI](https://styleci.io)
@@ -38,8 +35,6 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 ## Cheat sheets
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 * [Laravel Cheat Sheet 5.1 LTS](https://summerblue.github.io/laravel5-cheatsheet/)
-* https://www.cheatography.com/explore/tags/
-* https://github.com/detailyang/awesome-cheatsheet
 
 ## Code Snippets
 * [Laravel Tricks](http://laravel-tricks.com/)
@@ -404,11 +399,8 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * [Laravel Weekly](http://laravelweekly.com/)
 
 ## Hosted Development Tools
-* [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
-* [Laravel Versions {x.y.z}](https://laraver.xyz/) - Monitor Laravel for updates
 * [Laragen](http://makzumi.com/laragen/) - View generator
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
-* [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
 
 ## Miscellaneous
 * [Larasites](https://www.larasites.com/) - Collection of websites and apps built with Laravel
@@ -433,17 +425,13 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * [Admin](https://github.com/lembarek/admin)
 * [Adminpanel](https://github.com/digitlimit/adminpanel)
 
-### blade
+### Blade
 
 - https://github.com/sleeping-owl/blade-extended
 - http://packalyst.com/packages/package/goszowski/blade-extended
 - https://github.com/graciano/blade-helpers
 - https://github.com/Flynsarmy/laravel-db-blade-compiler
 - http://packalyst.com/packages/package/drahosistvan/blade-smartforeach
-
-### weather
-
-https://github.com/Torann/laravel-weather
 
 ### google maps
 
