@@ -130,6 +130,12 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * https://github.com/oasis1992/sociauth-laravel
 * https://github.com/caffeinated/shinobi
 * https://github.com/edvinaskrucas/laravel-user-email-verification
+* https://github.com/chrismichaels84/eloquent-meta
+* https://github.com/eusonlito/laravel-Meta
+* https://github.com/Torann/laravel-meta-tags
+* https://github.com/gwnobots/laravel-head
+* https://github.com/chriskonnertz/open-graph
+* https://github.com/ARCANEDEV/SEO-Helper
 
 ##### Working with Javascript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
