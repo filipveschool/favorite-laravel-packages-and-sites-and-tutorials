@@ -85,7 +85,6 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 ##### Making packages
 
 * https://github.com/neelkanthk/larapackboiler
-* https://github.com/furkankadioglu/Modvel
 * https://github.com/Jeroen-G/laravel-packager
 * https://github.com/ptondereau/laravel-packme
 
@@ -125,7 +124,6 @@ Awesome Laravel | favorite-laravel-packages-and-sites-and-tutorials
 * [Laravel Datatable](https://github.com/yajra/laravel-datatables) - jQuery DataTables API
 * [Laravel Dot Env Generator](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code
 * https://github.com/svenluijten/flex-env
-* https://github.com/kduma/L5-dotenv-filler
 * http://packalyst.com/packages/package/vinelab/cdn
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
 * [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - Determine the geographical location of website visitors based on their IP addresses
